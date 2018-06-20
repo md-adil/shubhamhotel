@@ -46,7 +46,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="contact-bnr-w3-agile">
 				<ul>
 					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:shubhamhotelgohana@gmail.com">shubhamhotelgohana@gmail.com</a></li>
-					<li><i class="fa fa-phone" aria-hidden="true"></i>+91 9812053561 &nbsp;&nbsp; +91 9255510001</li>	
+					<li><i class="fa fa-phone" aria-hidden="true"></i>+91 9812053561 &nbsp;&nbsp; +91 9255510001&nbsp;&nbsp; +919255499101(Manager)</li>	
 				<!--	<li class="s-bar">
 						<div class="search">
 							<input class="search_box" type="checkbox" id="search_box">
@@ -262,7 +262,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 											<img src="images/a1.jpg" class="img-responsive" alt="Shubham Hotel">
 										</div>
                                        <div class="w3ls-info-about">
-										    <h4>You'll love all the amenities we offer!</h4>
+										    <h4>Luxury, comfort, and modern amenities!!</h4>
 											<p>Stay with us and feel like home </p>
 										</div>
 		          </div>
@@ -280,15 +280,18 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 	<div class="advantage-block ">
 					<!-- <i class="fa fa-columns" aria-hidden="true"></i> -->
 			 		<h4>Top Amenties</h4>
+			 			
 			 	<!--	<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates.</p> -->
-			 	<p><i class="fa fa-check" aria-hidden="true"></i>Internet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<p><i class="fa fa-check" aria-hidden="true"></i>Internet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			 		
-			 		<i class="fa fa-check" aria-hidden="true"></i>Banquet facilities</p>
+			 		<i class="fa fa-check" aria-hidden="true"></i>Banquet facilities
+			 		</p>
 
-				<p><i class="fa fa-check" aria-hidden="true"></i>Business services&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			 		
-			 		<i class="fa fa-check" aria-hidden="true"></i>Wedding services</p>
-					<p><i class="fa fa-check" aria-hidden="true"></i>Valet Parking</p>
+				<p><i class="fa fa-check" aria-hidden="true"></i>Ring Ceremony&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			 		
+			 		<i class="fa fa-check" aria-hidden="true"></i>Birthday Party</p>
+					<p><i class="fa fa-check" aria-hidden="true"></i>Kitty Party</p>
+
 			 	</div>
 			 </div>
 			 <div class="col-md-6 advantage-grid right-w3ls wow zoomIn" data-wow-delay="0.3s">
@@ -316,6 +319,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<p><i class="fa fa-check" aria-hidden="true"></i>24-hour Concierge service</p>
 					<p><i class="fa fa-check" aria-hidden="true"></i>Delicious Food</p>
 					<p><i class="fa fa-check" aria-hidden="true"></i>Fresh Food</p>
+					<p><i class="fa fa-check" aria-hidden="true"></i>Internet</p>
 			 		
 			 	</div>
 			 </div>
@@ -328,7 +332,31 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<p><i class="fa fa-check" aria-hidden="true"></i>Visa Card &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-check" aria-hidden="true"></i>&nbsp;Debit Card</p>
 					<p><i class="fa fa-check" aria-hidden="true"></i>Cheques &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-check" aria-hidden="true"></i>American Express Card</p>
 					<p><i class="fa fa-check" aria-hidden="true"></i>Credit Card &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-check" aria-hidden="true"></i>Paytm</p>
+						<p><i class="fa fa-check" aria-hidden="true"></i>Business Services &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-check" aria-hidden="true"></i>Valet Parking</p>
 
+			 	</div>
+			 </div>
+			 <div class="col-md-6 advantage-grid right-w3ls wow zoomIn" data-wow-delay="0.3s">
+			 	<div class="advantage-block">
+			<!--		<i class="fa fa-clock-o" aria-hidden="true"></i> -->
+			 		<h4>Room Type</h4>
+			 <!--		<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates.</p> -->
+					<p><i class="fa fa-check" aria-hidden="true"></i> Standard Room
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><!--<i class="fa fa-check" aria-hidden="true"></i> /p>-->
+					<p><i class="fa fa-check" aria-hidden="true"></i>Suite Room&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><!--<i class="fa fa-check" aria-hidden="true"></i></p>-->
+					<!--<p><i class="fa fa-check" aria-hidden="true"></i>--><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--><p><i class="fa fa-check" aria-hidden="true"></i>Executive Room</p>
+			</div>
+		</div>
+		 <div class="col-md-6 advantage-grid right-w3ls wow zoomIn" data-wow-delay="0.3s">
+			 	<div class="advantage-block">
+				<!--	<i class="fa fa-credit-card" aria-hidden="true"></i> -->
+			 		<h4>Restaurant Food </h4>
+			 	<!--	<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates.</p> -->
+					<p><i class="fa fa-check" aria-hidden="true"></i>Italian Food&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-check" aria-hidden="true"></i>Mexican Food</p>
+					<p><i class="fa fa-check" aria-hidden="true"></i>Chinese Food &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-check" aria-hidden="true"></i>Indian Food</p>
+					<p><i class="fa fa-check" aria-hidden="true"></i>Thai Food &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-check" aria-hidden="true"></i>American Food</p>
+					<!--<p><i class="fa fa-check" aria-hidden="true"></i>Credit Card &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-check" aria-hidden="true"></i></p>-->
+									
 			 	</div>
 			 </div>
 			<div class="clearfix"> </div>
@@ -336,6 +364,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 	</div>
 </div>
+
 <!--//sevices-->
 <!-- team -->
 <!-- <div class="team" id="team">
@@ -435,237 +464,241 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </div>
 <!-- //team --> 
 <!-- Gallery -->
+<!-- Gallery -->
 <section class="portfolio-w3ls" id="gallery">
 		 <h3 class="title-w3-agileits title-black-wthree">Our Gallery</h3>
-		 <div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g1.jpg" class="swipebox"><img src="images/g1.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g17.jpg" class="swipebox"><img src="images/g17.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g18.jpg" class="swipebox"><img src="images/g18.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g19.jpg" class="swipebox"><img src="images/g19.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g20.jpg" class="swipebox"><img src="images/g20.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g21.jpg" class="swipebox"><img src="images/g21.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g22.jpg" class="swipebox"><img src="images/g22.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g23.jpg" class="swipebox"><img src="images/g23.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g24.jpg" class="swipebox"><img src="images/g24.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g25.jpg" class="swipebox"><img src="images/g25.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g26.jpg" class="swipebox"><img src="images/g26.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g27.jpg" class="swipebox"><img src="images/g27.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
+		 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css"/>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
 
+<section class="portfolio" id="portfolio">
+	<div class="container-fluid">
+		<div class="row">
 
+			<!--<div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				<h1 class="gallery-title">Gallery</h1>
+			</div>-->
 
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g1.jpg" class="swipebox"><img src="images/g1.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g2.jpg" class="swipebox"><img src="images/g2.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g3.jpg" class="swipebox"><img src="images/g3.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g4.jpg" class="swipebox"><img src="images/g4.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g5.jpg" class="swipebox"><img src="images/g5.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g6.jpg" class="swipebox"><img src="images/g6.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-					   </div>
-				   </a>
-				</div>
-			<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g7.jpg" class="swipebox"><img src="images/g7.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-					   </div>
-				   </a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g8.jpg" class="swipebox"><img src="images/g8.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-					   </div>
-				   </a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g9.jpg" class="swipebox"><img src="images/g9.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g10.jpg" class="swipebox"><img src="images/g10.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g11.jpg" class="swipebox"><img src="images/g11.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g12.jpg" class="swipebox"><img src="images/g12.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-				</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g13.jpg" class="swipebox"><img src="images/g13.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g14.jpg" class="swipebox"><img src="images/g14.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g15.jpg" class="swipebox"><img src="images/g15.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-3 gallery-grid gallery1">
-					<a href="images/g16.jpg" class="swipebox"><img src="images/g16.jpg" class="img-responsive" alt="/">
-						<div class="textbox">
-						<h4>Shubham Hotel</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
-						</div>
-					</a>
-				</div>
-				<div class="clearfix"> </div>
+			<div align="center">
+				<button class="filter-button" data-filter="all">All</button>
+				<button class="filter-button" data-filter="category1">Room & Restaurant</button>
+				<button class="filter-button" data-filter="category2">Visitors</button>
+				<button class="filter-button" data-filter="category3">Events</button>
+			</div>
+			
+			<br/>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category1">
+                <a class="fancybox" rel="ligthbox" href="images/g14.jpg">
+                    <img class="img-responsive" alt="" src="images/g14.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category2">
+                <a class="fancybox" rel="ligthbox" href="images/g21.jpg">
+                    <img class="img-responsive" alt="" src="images/g21.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category3">
+                 <a class="fancybox" rel="ligthbox" href="images/g7.jpg">
+                    <img class="img-responsive" alt="" src="images/g7.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category1">
+                <a class="fancybox" rel="ligthbox" href="images/g13.jpg">
+                    <img class="img-responsive" alt="" src="images/g13.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+			  <div class="gallery_product col-sm-3 col-xs-6 filter category2">
+                <a class="fancybox" rel="ligthbox" href="images/g24.jpg">
+                    <img class="img-responsive" alt="" src="images/g24.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+
+          
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category3">
+                <a class="fancybox" rel="ligthbox" href="images/g6.jpg">
+                    <img class="img-responsive" alt="" src="images/g6.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category1">
+                <a class="fancybox" rel="ligthbox" href="images/g2.jpg">
+                    <img class="img-responsive" alt="" src="images/g2.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category2">
+                <a class="fancybox" rel="ligthbox" href="images/g18.jpg">
+                    <img class="img-responsive" alt="" src="images/g18.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+			   <div class="gallery_product col-sm-3 col-xs-6 filter category3">
+                <a class="fancybox" rel="ligthbox" href="images/g12.jpg">
+                    <img class="img-responsive" alt="" src="images/g12.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+           
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category1">
+                <a class="fancybox" rel="ligthbox" href="images/g1.jpg">
+                    <img class="img-responsive" alt="" src="images/g1.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category2">
+                <a class="fancybox" rel="ligthbox" href="images/g17.jpg">
+                    <img class="img-responsive" alt="" src="images/g17.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category3">
+                <a class="fancybox" rel="ligthbox" href="images/g4.jpg">
+                    <img class="img-responsive" alt="" src="images/g4.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+              <div class="gallery_product col-sm-3 col-xs-6 filter category1">
+                <a class="fancybox" rel="ligthbox" href="images/g3.jpg">
+                    <img class="img-responsive" alt="" src="images/g3.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category2">
+                <a class="fancybox" rel="ligthbox" href="images/g22.jpg">
+                    <img class="img-responsive" alt="" src="images/g22.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category3">
+                <a class="fancybox" rel="ligthbox" href="images/g5.jpg">
+                    <img class="img-responsive" alt="" src="images/g5.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+			<div class="gallery_product col-sm-3 col-xs-6 filter category1">
+                <a class="fancybox" rel="ligthbox" href="images/g19.jpg">
+                    <img class="img-responsive" alt="" src="images/g19.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel </h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category2">
+                <a class="fancybox" rel="ligthbox" href="images/g27.jpg">
+                    <img class="img-responsive" alt="" src="images/g27.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category3">
+                <a class="fancybox" rel="ligthbox" href="images/g9.jpg">
+                    <img class="img-responsive" alt="" src="images/g9.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+            	<div class="gallery_product col-sm-3 col-xs-6 filter category1">
+                <a class="fancybox" rel="ligthbox" href="images/g10.jpg">
+                    <img class="img-responsive" alt="" src="images/g10.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+              <div class="gallery_product col-sm-3 col-xs-6 filter category2">
+                <a class="fancybox" rel="ligthbox" href="images/g20.jpg>
+                    <img class="img-responsive" alt="" src="images/g20.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+             <div class="gallery_product col-sm-3 col-xs-6 filter category3">
+                <a class="fancybox" rel="ligthbox" href="images/g11.jpg">
+                    <img class="img-responsive" alt="" src="images/g11.jpg" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+						<p></p>
+                    </div>
+                </a>
+            </div>
+		</div>
+	</div>
 </section>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js"></script>
+	<script src="js/script.js"></script>
 <!-- //gallery -->
 	  <!-- rooms & rates -->
  <!--     <div class="plans-section" id="rooms">
@@ -872,7 +905,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<div class="w3layouts_work_grid_left">
 								<img src="images/5.jpg" alt=" " class="img-responsive" />
 								<div class="w3layouts_work_grid_left_pos">
-									<img src="images/c4.jpg" alt=" " class="img-responsive" />
+									<img src="images/c5.jpg" alt=" " class="img-responsive" />
 								</div>
 							</div>
 							<div class="w3layouts_work_grid_right">
@@ -896,7 +929,7 @@ We can only say Thank you and we hope to see you again soon at Shubham.  </p>
 							<div class="w3layouts_work_grid_left">
 								<img src="images/5.jpg" alt=" " class="img-responsive" />
 								<div class="w3layouts_work_grid_left_pos">
-									<img src="images/c3.jpg" alt=" " class="img-responsive" />
+									<img src="images/c6.jpg" alt=" " class="img-responsive" />
 								</div>
 							</div>
 							<div class="w3layouts_work_grid_right">
@@ -927,7 +960,7 @@ We can only say Thank you and we hope to see you again soon at Shubham.  </p>
 			<div class="contact-agileits">
 				<h4>Contact Us</h4>
 				<!--<p class="contact-agile2">Sign Up For Our News Letters</p> -->
-				<form action="/post" method="post" name="sentMessage" id="contactForm" novalidate>
+				<form action="#" method="post">
 					{{csrf_field()}}
 					<div class="control-group form-group">
                         <div class="controls">
@@ -947,7 +980,7 @@ We can only say Thank you and we hope to see you again soon at Shubham.  </p>
                     <div class="control-group form-group">
                         <div class="controls">
                             <label class="contact-p1">Message:</label>
-                            <textarea type="text" class="form-control" name="message" id="message" required data-validation-required-message="Please enter your email address."></textarea>
+                            <textarea type="text" class="form-control" name="message" id="message" required data-validation-required-message="Please enter your Message."></textarea>
 							<p class="help-block"></p>
 						</div>
                     </div>
@@ -959,7 +992,7 @@ We can only say Thank you and we hope to see you again soon at Shubham.  </p>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-6 contact-w3-agile1" data-aos="flip-right">
 			<h4>Connect With Us</h4>
-			<p class="contact-agile1"><strong>Phone :</strong> +91 9812053561  &nbsp;&nbsp; +91 9255510001</p>
+			<p class="contact-agile1"><strong>Phone :</strong> +91 9812093561  &nbsp;&nbsp; +91 9255510001 &nbsp;&nbsp; +91 9255499101(Manager)</p>
 			<p class="contact-agile1"><strong>Email :</strong> <a href="mailto:shubhamhotelgohana@gmail.com">shubhamhotelgohana@gmail.com</a></p>
 			<p class="contact-agile1"><strong>Address :</strong>Opposite Tata Nano Agency, Rohtak Road Near Bus Stand, Gohana, Sonepat - 131301</p>
 																
@@ -981,7 +1014,7 @@ We can only say Thank you and we hope to see you again soon at Shubham.  </p>
 </section>
 <!-- /contact -->
 			<div class="copy">
-		        <p>© 1999 Shubham Hotel. All Rights Reserved | Design by <a href="http://crologic.net/">Crologic Solutions</a> </p>
+		        <p>© 2018 Shubham Hotel. All Rights Reserved | Design by <a href="http://crologic.net/">Crologic Solutions</a> </p>
 		    </div>
 <!--/footer -->
 <!-- js -->
@@ -1095,6 +1128,30 @@ fit: true
 		*/								
 		$().UItoTop({ easingType: 'easeOutQuart' });
 		});
+			/*	gallery */
+$(document).ready(function(){
+
+    $(".filter-button").click(function(){
+        var value = $(this).attr('data-filter');
+        
+        if(value == "all")
+        {
+            $('.filter').show('1000');
+        }
+        else
+        {
+            $(".filter").not('.'+value).hide('3000');
+            $('.filter').filter('.'+value).show('3000');
+            
+        }
+
+	        	if ($(".filter-button").removeClass("active")) {
+			$(this).removeClass("active");
+		    }
+		    	$(this).addClass("active");
+	    	});
+});
+/*	end gallery */
 	</script>
 	
 	<div class="arr-w3ls">

@@ -3,34 +3,28 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use Mail;
 
 class MailController extends Controller
 {
-    public function index()
+    //
+     public function send(Request $request)
     {
-    	return view('index');
-    }
-    public function post(Request $req)
-    {
-    	$req->validate([
-    		'email' => 'required',
-    		'subject' => 'required',
-    		'message' => 'required'
-    	]);
+       //return config('mail');
+        \Mail::send('mail.mail', ['messageBody' => $request->message] + $request->all(), function($message) {
+            $message->to('shubhamhotelgohana@gmail.com');
+            $message->subject('Website Enquiry');
 
-    	$data = [
-    		'email'=>$req->email,
-    		'subject'=>$req->subject,
-    		'bodyMessage'=>$req->message
-    	];
-
-    	Mail::send('mail.mail', $data, function($message) use ($data) {
-            $message->to(config('mail.from.address'), config('mail.from.name'));
-            $message->replyTo($data['email']);
-    		$message->subject($data['subject']);
-    	});
+        });
         
-        return 'ok';
+
+        \Mail::send('mail.contact-user', ['messageBody' => $request->message] + $request->all(), function($message) use($request) {
+            $message->to($request->email);
+            $message->subject(' Enquiry');
+        });
+        /*return [
+            'status' => 'ok',
+            'message' => 'Your query has been submitted, Our team will contact your shortly.'
+        ];*/
+        return back()->with('success', 'Your query has been submitted, Our team will contact you shortly.');
     }
 }

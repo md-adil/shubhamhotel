@@ -1,6 +1,41 @@
-<h3>Enquiry mail</h3>
 
-<p>
-	Email: {{ $email }}
-</p>
-<p>{{ $bodyMessage }}</p>
+<!DOCTYPE html>
+<html lang="en">
+    <link href="" media="all" />
+    
+    <body style="background-color: ">
+
+        <div class="text-left">
+
+        <div class="text-center">
+
+            <h1>
+                
+            </h1>
+        </div>
+        <hr>
+        <br />
+
+        <div class="maincontent" style="background-color: #FFF; margin: auto; padding: 20px; width: 450px;border-top: 2px solid #27ae60; border-bottom: 2px solid #27ae60;border-left: 2px solid #27ae60;border-right: 2px solid #27ae60; ">
+            <div class="text-left">
+               
+                <p style="font-size:150% ;text-align:left;">
+
+        <div class="maincontent" style="background-color: #FFF; margin: auto; padding: 20px; width: 350px; ">
+            <div class="text-center">
+               
+                <p style="font-size:150%;">
+
+                    Someone registered with the following details:<br> Email - <b>{{ $email }}<br></b> Phone- <b>{{ $subject }}<br></b>Message- <b>{{ $messageBody}}<br></b>
+                </p>
+               
+                
+                
+                <p></p>
+            </div>
+        </div>
+    </body>
+</html>
+
+
+

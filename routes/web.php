@@ -14,4 +14,4 @@ Route::get('/', function () {
 });
 
 // Route::get('mail','MailController@index');
-Route::post('mail','MailController@post');
+Route::post('mail','MailController@send');
