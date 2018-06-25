@@ -874,7 +874,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								Worth to come again
 								</h4>
 								<p>I had my own doubts about the hotel till I reached there. But we had a great time at Shubham Hotel and we would love to visit again.We (Friends & colleague 11Person) stayed here for 1 days, and we had the best time at the Shubham. The rooms are neat and clean, the bathroom is also well maintained. The ambiance of the Shubham hotel is very beautiful.Its an ideal place for families, friends and also for couples. Value for our Money.</p>
-								<h5>Anand Prakash</h5>
+								<h5>Jack,Nick,Sussain</h5>
 								<!--<p></p> -->
 							</div>
 							<div class="clearfix"> </div>
