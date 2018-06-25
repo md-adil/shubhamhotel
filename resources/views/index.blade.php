@@ -46,7 +46,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="contact-bnr-w3-agile">
 				<ul>
 					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:shubhamhotelgohana@gmail.com">shubhamhotelgohana@gmail.com</a></li>
-					<li><i class="fa fa-phone" aria-hidden="true"></i>+91 9812053561 &nbsp;&nbsp; +91 9255510001&nbsp;&nbsp; +919255499101(Manager)</li>	
+					<li><i class="fa fa-phone" aria-hidden="true"></i>+91 9812093561 &nbsp;&nbsp; +91 9255510001&nbsp;&nbsp; +919255499101(Manager)</li>	
 				<!--	<li class="s-bar">
 						<div class="search">
 							<input class="search_box" type="checkbox" id="search_box">
@@ -262,7 +262,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 											<img src="images/a1.jpg" class="img-responsive" alt="Shubham Hotel">
 										</div>
                                        <div class="w3ls-info-about">
-										    <h4>Luxury, comfort, and modern amenities!!</h4>
+										    <h4>Banquet Rooms for Birthday,Kitty and Ring Ceremony . </h4>
+										    <h4></h4>
 											<p>Stay with us and feel like home </p>
 										</div>
 		          </div>
