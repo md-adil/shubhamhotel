@@ -262,7 +262,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 											<img src="images/a1.jpg" class="img-responsive" alt="Shubham Hotel">
 										</div>
                                        <div class="w3ls-info-about">
-										    <h4>Banquet Rooms for Birthday,Kitty and Ring Ceremony . </h4>
+										    <h4>Room, Restaurant and Banquet Hall</h4>
 										    <h4></h4>
 											<p>Stay with us and feel like home </p>
 										</div>
@@ -896,7 +896,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								Worth to come again
 								</h4>
 								<p>Wow! Food was very testy and also the supporting staff was very polite and they helped to make decision. Also the way of talking.  </p>
-								<h5>Amarjeet</h5>
+								<h5>Taufik</h5>
 							<!--	<p>Delhi</p> -->
 							</div>
 
@@ -921,7 +921,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<p>We have no words to express our gratitude.<br>
 
 We can only say Thank you and we hope to see you again soon at Shubham.  </p>
-								<h5>Naresh</h5>
+								<h5>Krishna-dwaipayana</h5>
 							<!--	<p>Panipat</p> -->
 							</div>
 							<div class="clearfix"> </div>
